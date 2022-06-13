@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testes Trainning</string>
+    <string name="hello_world">Start counting</string>
+    <string name="button_text">Click here</string>
+</resources>
